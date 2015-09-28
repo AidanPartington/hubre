@@ -1,4 +1,4 @@
-## PropertyPro
+# PropertyPro
 
 This is a Property shortlisting app using the Google maps api.
 It allows the user to save a detailed property list visually on a geographical map.
