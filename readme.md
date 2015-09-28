@@ -25,11 +25,11 @@ gmaps.js (Google maps) was used to fill the right column. This aloud us to drop 
 This was a huge learning curve. The [gmaps api](https://hpneo.github.io/gmaps/) had extensive documentation covering everything from start page centering to attaching labels and of course matching latitude and longitude to an address. It was a extremely important to pass information as detailed in the documentation.
 
 __Left Column__ <br>
-I split this column into the top login/sign up panes and below it the saved Property List.
+I split this column into the top 'login'/'sign up' panes and below it the saved Property List.
 
 * I learnt how to use the bootstrap tab panes. To give the user the option of signing up or logging into an existing account. Learning to use this was fairly easy and straight forward process of assigning the correct bootstrap classes.
 
-* The property list below was a little more difficult. As the number of properties on the list would and undetermined length it was important to find a formatting solution. We used the CSS3 "height: __ vh;"  function to keep the list finishing at the same level/point as the map in the right column. We then added "overflow: scroll;" which meant that if the complete property list can not be seen in the allocated space. The user can scroll up and down to see the whole list.
+* The property list below was a little more difficult. As the number of properties on the list would be an undetermined length, it was important to find a formatting solution. We used the CSS3 "height: __ vh;"  function to keep the list finishing at the same level/point as the map in the right column. We then added "overflow: scroll;" which meant that if the complete property list can not be seen in the allocated space, The user can scroll up and down to see the whole list.
 
 
 
